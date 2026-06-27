@@ -11,7 +11,7 @@ A modern, animated single-file portfolio website built with pure HTML, CSS, and 
 
 ## 🌐 Live Demo
 
-**[shreyashsecretary.github.io/portfolio](https://ssecretary.github.io/portfolio)**
+**[shreyashsecretary.github.io/portfolio](https://ssecretary.github.io/portfolio-website/)**
 
 ---
 
